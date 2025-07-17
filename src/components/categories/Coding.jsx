@@ -14,6 +14,9 @@ export default function Coding({open, toggle}){
               Javascript libraries collection
             </Li>
             <Li href="https://react.dev/" name="React" >React docs</Li>
+            <Li href="https://nextjs.org/docs/app/getting-started/installation#manual-installation" name="next.js">
+              Next.js docs
+            </Li>
         </Section>
     )
 }
