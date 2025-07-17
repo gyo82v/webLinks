@@ -22,6 +22,9 @@ export default function Minsc({open, toggle}){
             </Li>
             <Li href="https://favicon.io/" name="favicon">generate icons from images, text...</Li>
             <Li href="https://react-icons.github.io/react-icons/" name="React icons" >React icons</Li>
+            <Li href="https://giphy.com/" name="Giphy">Animated gifs</Li>
+            <Li href="https://www.1001fonts.com/" name="1001 fonts" >fonts styles</Li>
+            <Li href="https://fonts.google.com/?preview.layout=grid" name="Google fonts" >google fonts styles</Li>
 
         </Section>
     )
