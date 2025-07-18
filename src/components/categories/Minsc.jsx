@@ -25,6 +25,9 @@ export default function Minsc({open, toggle}){
             <Li href="https://giphy.com/" name="Giphy">Animated gifs</Li>
             <Li href="https://www.1001fonts.com/" name="1001 fonts" >fonts styles</Li>
             <Li href="https://fonts.google.com/?preview.layout=grid" name="Google fonts" >google fonts styles</Li>
+            <Li href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA" name="Aria properties" >
+              Aria docs
+            </Li>
 
         </Section>
     )

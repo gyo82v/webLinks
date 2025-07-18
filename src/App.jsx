@@ -6,9 +6,18 @@ import Coding from "./components/categories/Coding"
 import Minsc from "./components/categories/Minsc"
 import Social from "./components/categories/Social"
 import Websites from "./components/categories/Websites"
+import YouTube from "./components/categories/YouTube"
 
 function App() {
-  const [open, setOpen] = useState({styles : true, coding : true, misc : true, img : true, social : true, web : true})
+  const [open, setOpen] = useState(
+  { styles : true,
+    coding : true,
+    misc : true,
+    img : true,
+    social : true,
+    web : true,
+    youTube : true,
+  })
 
   const toggleOpen = c => setOpen(p => ({...p, [c] : !p[c] }))
   
@@ -24,6 +33,7 @@ function App() {
         <Minsc open={open.misc} toggle={() => toggleOpen("misc")}  />
         <Social open={open.social} toggle={() => toggleOpen("social")} />
         <Websites open={open.web} toggle={() => toggleOpen("web")} />
+        <YouTube open={open.youTube} toggle={() => toggleOpen("youtube")} />
       </main>
       <footer className="bg-orange-200 p-4 text-center font-semibold text-orange-800">
         <p>@2025 webs</p>
