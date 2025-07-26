@@ -28,7 +28,7 @@ export default function Section({title, children, open, toggle, variant = "defau
     return(
         <section className={sectionMainStl}>
             <section className={sectionSecStl}>
-                <h1 className="mr-auto">{title} links</h1>
+                <h2 className="mr-auto">{title} links</h2>
                 <button className={btnStl} onClick={toggle}>
                     {open ? <FaChevronDown /> : <FaChevronUp />}
                 </button>
