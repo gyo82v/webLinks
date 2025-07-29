@@ -28,6 +28,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA" name="Aria properties" >
               Aria docs
             </Li>
+            <Li href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions" name="regular expressions">Regular expressions</Li>
 
         </Section>
     )
