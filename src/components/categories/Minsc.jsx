@@ -29,7 +29,8 @@ export default function Minsc({open, toggle}){
               Aria docs
             </Li>
             <Li href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions" name="regular expressions">Regular expressions</Li>
-
+            <Li href="https://fontawesome.com/" name="Font awesome">Font awesome icons</Li>
+            <Li href="https://cdnjs.com/libraries/font-awesome" name="Font awesome cdns" >Font Awesome cdns</Li>
         </Section>
     )
 }

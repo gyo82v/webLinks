@@ -17,6 +17,7 @@ export default function Coding({open, toggle}){
             <Li href="https://nextjs.org/docs/app/getting-started/installation#manual-installation" name="next.js">
               Next.js docs
             </Li>
+            <Li href="https://cdnjs.com/libraries" name="cdns libraries javascript">cdn Javascript libraries</Li>
         </Section>
     )
 }
