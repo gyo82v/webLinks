@@ -31,6 +31,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions" name="regular expressions">Regular expressions</Li>
             <Li href="https://fontawesome.com/" name="Font awesome">Font awesome icons</Li>
             <Li href="https://cdnjs.com/libraries/font-awesome" name="Font awesome cdns" >Font Awesome cdns</Li>
+            <Li href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors" name="javascript errors">javascript errors docs</Li>
         </Section>
     )
 }
