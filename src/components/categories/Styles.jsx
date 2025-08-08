@@ -17,6 +17,10 @@ export default function Styles({toggle, open}){
             >
                 Figma website
             </Li>
+            <Li href="https://www.w3schools.com/tags/ref_pxtoemconversion.asp" name="px to em converter">convert px to em and viceversa</Li>
+            <Li href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_media_queries/Using_media_queries" name="Css media queries">
+              Css media queries
+            </Li>
         </Section>
     )
 }
