@@ -18,6 +18,7 @@ export default function Coding({open, toggle}){
               Next.js docs
             </Li>
             <Li href="https://cdnjs.com/libraries" name="cdns libraries javascript">cdn Javascript libraries</Li>
+            <Li href="https://developer.mozilla.org/en-US/docs/Web/API" name="Web api">Web api list</Li>
         </Section>
     )
 }
