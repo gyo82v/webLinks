@@ -8,6 +8,7 @@ import Social from "./components/categories/Social"
 import Websites from "./components/categories/Websites"
 import YouTube from "./components/categories/YouTube"
 import Css from "./components/categories/Css"
+import Api from "./components/categories/Api"
 
 function App() {
   const [open, setOpen] = useState(
@@ -18,7 +19,8 @@ function App() {
     social : true,
     web : true,
     youTube : true,
-    css : true
+    css : true,
+    api : true
   })
 
   const toggleOpen = c => setOpen(p => ({...p, [c] : !p[c] }))
@@ -37,6 +39,7 @@ function App() {
         <Websites open={open.web} toggle={() => toggleOpen("web")} />
         <YouTube open={open.youTube} toggle={() => toggleOpen("youtube")} />
         <Css open={open.css} toggle={() => toggleOpen("css")} />
+        <Api open={open.api} toggle={() => toggleOpen("api")} />
       </main>
       <footer className="bg-orange-200 p-4 text-center font-semibold text-orange-800">
         <p>@2025 webs</p>
