@@ -16,6 +16,7 @@ export default function Api({open, toggle}){
             > 
               get current location
             </Li>
+            <Li href="https://github.com/public-apis/public-apis" name="public apis">public apis list github</Li>
 
         </Section>
     )

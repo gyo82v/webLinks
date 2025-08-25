@@ -7,6 +7,7 @@ export default function Websites({open, toggle}){
             <Li href="https://www.awwwards.com/" name="awwwards.com">
                view the best rated websites
             </Li>
+            <Li href="https://chromewebstore.google.com/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en" name="momentum">Momentum dashboard fro browser</Li>
         </Section>
     )
 }

@@ -35,6 +35,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://developer.chrome.com/docs/devtools/device-mode?hl=it" name="Device testing chrome"> to test device screen on chrome</Li>
             <Li href="https://squoosh.app/" name="Squoosh">convert images format</Li>
             <Li href="https://jsonlint.com/" name="Json validator">Json code validator</Li>
+            <li href="https://www.orioniconlibrary.com/" name="Orion">icons selections to download</li>
         </Section>
     )
 }
