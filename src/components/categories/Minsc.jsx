@@ -38,6 +38,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://www.orioniconlibrary.com/" name="Orion">icons selections to download</Li>
             <Li href="https://www.conventionalcommits.org/en/v1.0.0/" name="Conventionals commits">Conventional gihub commits</Li>
             <Li href="https://different-marmoset-f7b.notion.site/Using-environment-variables-in-Scrimba-f8edc638005a4e97b557c6ab1752248a" name="scrimba guide emv">using environmental variable scrimba</Li>
+            <Li href="https://www.npmjs.com/package/validator" name="validator.js">Valodate strings for email...etc</Li>
         </Section>
     )
 }
