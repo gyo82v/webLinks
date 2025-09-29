@@ -11,6 +11,7 @@ export default function Css({open, toggle}){
             >
                 Perfect full page bg image
             </Li>
+            <Li href="https://cssgradient.io/" name="css gradient">Create css gradients</Li>
         </Section>
     )
 }
