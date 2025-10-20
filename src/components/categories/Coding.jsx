@@ -19,6 +19,8 @@ export default function Coding({open, toggle}){
             </Li>
             <Li href="https://cdnjs.com/libraries" name="cdns libraries javascript">cdn Javascript libraries</Li>
             <Li href="https://developer.mozilla.org/en-US/docs/Web/API" name="Web api">Web api list</Li>
+            <Li href="https://supabase.com/docs/guides/api/sql-to-rest" name="sql to supabase translator">translete sql code into supabase</Li>
+            <Li href="https://supabase.com/dashboard/org/vbbvojdiuwldvonsddpv" name="Supabase">Supabase accont</Li>
         </Section>
     )
 }
