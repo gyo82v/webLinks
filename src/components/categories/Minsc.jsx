@@ -40,6 +40,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://different-marmoset-f7b.notion.site/Using-environment-variables-in-Scrimba-f8edc638005a4e97b557c6ab1752248a" name="scrimba guide emv">using environmental variable scrimba</Li>
             <Li href="https://www.npmjs.com/package/validator" name="validator.js">Valodate strings for email...etc</Li>
             <Li href="https://freesound.org/" name="freesound">free sounds files</Li>
+            <Li href="https://testing-library.com/docs/" name="testing library docs">testing library docs</Li>
         </Section>
     )
 }
