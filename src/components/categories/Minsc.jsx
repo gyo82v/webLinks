@@ -41,6 +41,7 @@ export default function Minsc({open, toggle}){
             <Li href="https://www.npmjs.com/package/validator" name="validator.js">Valodate strings for email...etc</Li>
             <Li href="https://freesound.org/" name="freesound">free sounds files</Li>
             <Li href="https://testing-library.com/docs/" name="testing library docs">testing library docs</Li>
+            <Li href="https://owasp.org/" name="owasp docs">owasp docs</Li>
         </Section>
     )
 }
