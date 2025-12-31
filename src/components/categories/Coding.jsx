@@ -22,7 +22,7 @@ export default function Coding({open, toggle}){
             <Li href="https://supabase.com/docs/guides/api/sql-to-rest" name="sql to supabase translator">translete sql code into supabase</Li>
             <Li href="https://supabase.com/dashboard/org/vbbvojdiuwldvonsddpv" name="Supabase">Supabase accont</Li>
             <Li href="https://www.typescriptlang.org/docs/" name="Typescript">Typescript docs</Li>
-            <Li href="https://nextjs.org/docs/app/getting-started/installation" name="Next.js docs">Next.js documentation</Li>
+            <Li href="https://nextjs.org/docs/" name="Next.js docs">Next.js docs</Li>
         </Section>
     )
 }
