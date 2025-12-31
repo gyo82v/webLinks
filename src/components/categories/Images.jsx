@@ -6,7 +6,8 @@ export default function Images({open, toggle}){
         <Section open={open} toggle={toggle} title="images">
             <Li href="https://unsplash.com/" name="Unsplash">Free images</Li>
             <Li href="https://pixabay.com/" name= "Pixabay" >Free images</Li>
-            <Li href="https://squoosh.app/" name="sqoosh">Crop images</Li>
+            <Li href="https://squoosh.app/" name="sqoosh">edit images</Li>
+            <Li href="https://www.iloveimg.com/crop-image" name="iloveimg">crop images</Li>
         </Section>
 
     )
