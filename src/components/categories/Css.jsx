@@ -12,6 +12,7 @@ export default function Css({open, toggle}){
                 Perfect full page bg image
             </Li>
             <Li href="https://cssgradient.io/" name="css gradient">Create css gradients</Li>
+            <Li href="https://tailwindcss.com/docs/colors" name="tailwind colors">Tailwind colors</Li>
         </Section>
     )
 }
