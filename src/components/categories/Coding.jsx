@@ -23,6 +23,7 @@ export default function Coding({open, toggle}){
             <Li href="https://supabase.com/dashboard/org/vbbvojdiuwldvonsddpv" name="Supabase">Supabase accont</Li>
             <Li href="https://www.typescriptlang.org/docs/" name="Typescript">Typescript docs</Li>
             <Li href="https://nextjs.org/docs/" name="Next.js docs">Next.js docs</Li>
+            <Li href="https://nodejs.org" name="Node.js docs">Node.js docs</Li>
         </Section>
     )
 }
